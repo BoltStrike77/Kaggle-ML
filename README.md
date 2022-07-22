@@ -1,5 +1,5 @@
 # Kaggle-Learn
-A repository to hold Kaggle practices, mainly Jupyter notebooks
+A repository to hold Kaggle practices and certifications.
 
 Certificates earned:
 - Intro to ML
