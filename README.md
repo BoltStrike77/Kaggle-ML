@@ -4,9 +4,9 @@ A repository to hold Kaggle practices and certifications.
 Certificates earned:
 - Intro to ML
 - Python
+- Pandas
 
 Courses in progress:
-- Pandas
 - Data Visualization
 - Intermediate Machine Learning
 - Feature Engineering
