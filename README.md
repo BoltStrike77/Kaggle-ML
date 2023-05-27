@@ -5,10 +5,11 @@ Certificates earned:
 - Intro to ML
 - Python
 - Pandas
+- Intermediate Machine Learning
 
 Courses in progress:
 - Data Visualization
-- Intermediate Machine Learning
 - Feature Engineering
+- Data Cleaning
 
 
